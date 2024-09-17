@@ -31,3 +31,15 @@ Regras:
  -> Multa vai custar R$ 7,00 por cada km acima do limite;
 
  -> Exibir a multa no final.
+
+ -------------------------------------- ex04 --------------------------------------
+
+ Proposta: Crie uma aplicação que exiba um catalago de uma loja e receba os pedidos dos clientes. Aplicando descontos as suas compras caso tenha a qauntidade de itens presentes na tabela de descontos da loja.
+
+ Regras:
+
+ -> Exibir o catalago da loja e o catalago dos descontos por quantidade de item;
+
+ -> Exibir no final da compra o preço total sem descontos e o preço total com desconto.
+
+ OBS: Os preços e os descontos dos itens pode ficar a seu criterio.
