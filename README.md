@@ -43,3 +43,13 @@ Regras:
  -> Exibir no final da compra o preço total sem descontos e o preço total com desconto.
 
  OBS: Os preços e os descontos dos itens pode ficar a seu criterio.
+
+ -------------------------------------- ex04 --------------------------------------
+
+ Proposta: Criar uma aplicação que calcule o preço de carros alugados, levando em conta a quantidade de dias que sera alugado e o preço por dia dele.
+
+ Regras:
+
+ -> Exibir um catálago de carros com seus respectivos valores por dia;
+
+ -> Calcular e exibir ao usuario o preço que ele ira pagar no final.
