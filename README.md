@@ -44,7 +44,7 @@ Regras:
 
  OBS: Os preços e os descontos dos itens pode ficar a seu criterio.
 
- -------------------------------------- ex04 --------------------------------------
+ -------------------------------------- ex05 --------------------------------------
 
  Proposta: Criar uma aplicação que calcule o preço de carros alugados, levando em conta a quantidade de dias que sera alugado e o preço por dia dele.
 
@@ -53,3 +53,15 @@ Regras:
  -> Exibir um catálago de carros com seus respectivos valores por dia;
 
  -> Calcular e exibir ao usuario o preço que ele ira pagar no final.
+
+  -------------------------------------- ex06 --------------------------------------
+
+Proposta: Criar uma aplicação que contabiliza a quantidade de votos de 3 candidatos e os exiba.
+
+Regras:
+
+-> Ter ao menos 3 tipos de voto;
+
+-> Pedir 20 votos;
+
+-> Exibir no final as contagem de votos.
