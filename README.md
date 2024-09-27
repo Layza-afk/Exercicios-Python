@@ -108,7 +108,7 @@ Instruções:
 
 Nome: Contador de vogais
 
-Proposta: Objetivo: Escrever um programa que conte o número de vogais em uma frase fornecida pelo usuário.
+Proposta: Escrever um programa que conte o número de vogais em uma frase fornecida pelo usuário.
 
 Instruções:
 
