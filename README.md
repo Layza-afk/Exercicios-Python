@@ -150,4 +150,4 @@ Instruções:
 
 -> Para múltiplos de 5, mesma coisa. Imprimir o numero no seu formato simplificado;
 
--> Para múltiplos de 3 e 5, impirmir ambas formas de simplificação, exemplo: o numero é 15, Imprimir: 3*5 ou 5*3.
+-> Para múltiplos de 3 e 5, impirmir ambas formas de simplificação.
