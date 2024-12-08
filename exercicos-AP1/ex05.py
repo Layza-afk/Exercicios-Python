@@ -1,5 +1,11 @@
 #Carro Alugado
 
+# Proposta: Criar uma aplicação que calcule o preço de carros alugados, levando em conta a quantidade de dias que sera alugado e o preço por dia dele.
+
+#Instruções:
+#-> Exibir um catálago de carros com seus respectivos valores por dia;
+#-> Calcular e exibir ao usuario o preço que ele ira pagar no final.
+
 carros = {
     'fiat mobi': 70,
     'fiat uno': 60,

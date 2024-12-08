@@ -1,4 +1,10 @@
 #votação da feira
+# Proposta: Criar uma aplicação que contabiliza a quantidade de votos de 3 candidatos e os exiba.
+
+#Instruções:
+#-> Ter ao menos 3 tipos de voto;
+#-> Pedir 20 votos;
+#-> Exibir no final as contagem de votos.
 
 banca = {
     'abacate': 'a',

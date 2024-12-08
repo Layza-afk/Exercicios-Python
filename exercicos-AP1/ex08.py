@@ -1,4 +1,9 @@
 # Calculadora Simples
+#Porposta: calculadora simples. Deve ser pedido 2 números ao user e perguntar qual tipo de operação ele quer efetuar, depois mostrar o resultado.
+
+#Instruções:
+#-> Pedir dois numeros;
+#-> Pedir um operador matematico para efetuar o calculo (+, -, /, *).
 
 print('CALCULADORA SIMPLES')
 

@@ -1,4 +1,10 @@
 #Loja 
+#Proposta: Crie uma aplicação que exiba um catalago de uma loja e receba os pedidos dos clientes. Aplicando descontos as suas compras caso tenha a qauntidade de itens presentes na tabela de descontos da loja.
+
+#Instruções:
+#-> Exibir o catalago da loja e o catalago dos descontos por quantidade de item;
+#-> Exibir no final da compra o preço total sem descontos e o preço total com desconto.
+#OBS: Os preços e os descontos dos itens pode ficar a seu criterio.
 
 catalago = {
     "tênis": 20.00,

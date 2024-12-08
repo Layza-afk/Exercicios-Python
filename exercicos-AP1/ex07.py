@@ -1,4 +1,10 @@
 #Quizz
+# Proposta: Criar um joguinho onde sera preciso que os usuário encontre a palavra de acordo as dicas.
+
+#Instruções:
+#-> Escolher uma palavra aleatorio;
+#-> informa dicas a cada tentativa do usuario;
+#-> O usuario so tem 3 tentativas para acerta a palavra.
 
 import random
 
