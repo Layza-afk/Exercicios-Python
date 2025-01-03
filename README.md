@@ -15,3 +15,9 @@ Nível: Moderado
 Quantidade: indefinido // indifinido
 
 Conhecimentos em: Listas encadeadas, classes, pilha, fila, busca sequencial, busca binaria e recursão.
+
+---------------------------------- ÁRVORES ----------------------------------
+
+Nível: Triste
+
+Resumo: Essa pasta conterá os dois tipos de árvores útilizadas para a organização de dados, AVL e a BST.
